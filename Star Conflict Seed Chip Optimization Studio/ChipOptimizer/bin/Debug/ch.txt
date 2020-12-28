@@ -1,0 +1,10 @@
+ChipName: Whirlwind chip of roar
+Rank: 15
+Buff1: Damage
+Buff1Value: 43
+Buff2: Kinetic
+Buff2Value: 59
+ChipName: Flame chip of Flame
+Rank: 17
+Buff1: Thermal
+Buff1Value: 53

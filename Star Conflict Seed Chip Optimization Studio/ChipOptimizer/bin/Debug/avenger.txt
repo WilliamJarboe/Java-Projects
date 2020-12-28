@@ -1,0 +1,18 @@
+ChipName: Typhoon chip of flash
+Rank: 16
+Buff1: Damage
+Buff1Value: 62
+Buff2: EM
+Buff2Value: 54
+ChipName: Hurricane chip of might
+Rank: 15
+Buff1: Damage
+Buff1Value: 55
+Buff2: Thermal
+Buff2Value: 58
+Buff3: Destroyer
+Buff3Value: 30.7
+ChipName: Blazing chip of expert
+Rank: 17
+Buff1: Thermal
+Buff1Value: 77

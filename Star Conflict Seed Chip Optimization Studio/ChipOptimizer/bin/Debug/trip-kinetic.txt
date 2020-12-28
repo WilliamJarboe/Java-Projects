@@ -1,0 +1,116 @@
+ChipName: Typhoon chip of rumble
+Rank: 16
+Buff1: Kinetic
+Buff1Value: 52
+Buff2: Damage
+Buff2Value: 62
+ChipName: Hurricane chip of knocking
+Rank: 15
+Buff1: Fire Rate
+Buff1Value: 28.9
+Buff2: Damage
+Buff2Value: 56
+Buff3: Kinetic
+Buff3Value: 35.8
+ChipName: Shock chip of rumble
+Rank: 16
+Buff1: Kinetic
+Buff1Value: 53
+Buff2: Fire Rate
+Buff2Value: 29.1
+Buff3: Critical Damage
+Buff3Value: 45.2
+ChipName: Compressed chip of shock
+Rank: 16
+Buff1: Critical Chance
+Buff1Value: 21.1
+Buff2: Critical Damage
+Buff2Value: 54.0
+ChipName: Squall chip of shock
+Rank: 16
+Buff1: Critical Damage
+Buff1Value: 51
+Buff2: Alien
+Buff2Value: 68
+Buff3: Damage
+Buff3Value: 32
+ChipName: Heavy chip of roar
+Rank: 15
+Buff1: Critical Chance
+Buff1Value: 12.1
+Buff2: Destroyer
+Buff2Value: 47
+Buff3: Kinetic
+Buff3Value: 69
+Buff4: Alien
+Buff4Value: 62
+ChipName: Whirlwind chip of breach
+Rank: 16
+Buff1: Critical Damage
+Buff1Value: 26.4
+Buff2: Critical Chance
+Buff2Value: 10.3
+Buff3: Damage
+Buff3Value: 47.5
+ChipName: Hurricane chip of strike
+Rank: 13
+Buff1: Critical Damage
+Buff1Value: 17.2
+Buff2: Critical Chance
+Buff2Value: 8.1
+Buff3: Damage
+Buff3Value: 56
+ChipName: Ramming chip of enthetic
+Rank: 13
+Buff1: Alien
+Buff1Value: 107
+Buff2: Critical Damage
+Buff2Value: 40.5
+Buff3: Heat Reduction
+Buff3Value: 49.0
+ChipName: Typhoon chip of lightning
+Rank: 16
+Buff1: Fire Rate
+Buff1Value: 21.7
+Buff2: Damage
+Buff2Value: 65.0
+Buff3: Heat Reduction
+Buff3Value: 28.6
+ChipName: Tangent chip of rise
+Rank: 15
+Buff1: Damage
+Buff1Value: 109.0
+Buff2: Critical Chance
+Buff2Value: 23.4
+ChipName: Whirlwind chip of shock
+Rank: 16
+Buff1: Critical Damage
+Buff1Value: 52
+Buff2: Damage
+Buff2Value: 44.3
+ChipName: Squall chip of ram
+Rank: 13
+Buff1: Damage
+Buff1Value: 36.3
+Buff2: Alien
+Buff2Value: 71
+Buff3: Critical Damage
+Buff3Value: 40.2
+ChipName: Wrathful chip of detonation
+Rank: 15
+Buff1: Damage
+Buff1Value: 204
+Buff2: Fire Rate
+Buff2Value: 32.7
+CompStat: Critical Chance
+CompValue: -22.5
+ChipName: Typhoon chip of success
+Rank: 16
+Buff1: Damage
+Buff1Value: 61
+Buff2: Heat Reduction
+Buff2Value: 39.4
+Buff3: Alien
+Buff3Value: 116
+Buff4: Critical Chance
+Buff4Value: 12

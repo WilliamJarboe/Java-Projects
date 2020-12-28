@@ -1,0 +1,372 @@
+ChipName: Hurricane chip of fire
+Rank: 13
+Buff1: Heat Reduction
+Buff1Value: 52
+Buff2: Damage
+Buff2Value: 59
+Buff3: Thermal
+Buff3Value: 29.3
+ChipName: Accumulating chip of leaks
+Rank: 12
+Buff1: Alien
+Buff1Value: 43.4
+Buff2: Heat Reduction
+Buff2Value: 9.9
+ChipName: Backup chip of typhoon
+Rank: 16
+Buff1: Damage
+Buff1Value: 69
+Buff2: Thermal
+Buff2Value: 38
+ChipName: Hungry chip of scorch
+Rank: 16
+Buff1: Fire Rate
+Buff1Value: 20.9
+Buff2: Thermal
+Buff2Value: 55.0
+ChipName: Accumulating chip of eruption
+Rank: 17
+Buff1: Fire Rate
+Buff1Value: 26.2
+ChipName: Observant chip of polonum
+Rank: 11
+Buff1: Alien
+Buff1Value: 37.5
+ChipName: Splitting chip of knocking
+Rank: 13
+Buff1: Damage
+Buff1Value: 96
+Buff2: Kinetic
+Buff2Value: 41.7
+Buff3: Alien
+Buff3Value: 70
+ChipName: Vigorous chip of the reach
+Rank: 13
+Buff1: Alien
+Buff1Value: 47
+ChipName: Burning chip of screws
+Rank: 15
+Buff1: Thermal
+Buff1Value: 63
+Buff2: Kinetic
+Buff2Value: 34
+ChipName: Quickening chip of the small
+Rank: 15
+Buff1: Fire Rate
+Buff1Value: 88
+CompStat: Damage
+CompValue: 15.8
+ChipName: Angry chip of the tucked
+Rank: 15
+Buff1: Damage
+Buff1Value: 147
+CompStat: Critical Chance
+CompValue: -30
+ChipName: Typhoon chip of malachite
+Rank: 16
+Buff1: Critical Chance
+Buff1Value: 22.3
+Buff2: Damage
+Buff2Value: 67.0
+Buff3: Ellydium
+Buff3Value: 47.5
+ChipName: Heavy chip of the tucked
+Rank: 15
+Buff1: Alien
+Buff1Value: 86
+Buff2: Destroyer
+Buff2Value: 47.4
+ChipName: Mighty chip of the bulge
+Rank: 17
+Buff1: Destroyer
+Buff1Value: 29.4
+ChipName: Frozen chip of the boisterous
+Rank: 15
+Buff1: Kinetic
+Buff1Value: 22.4
+Buff2: Heat Reduction
+Buff2Value: 33.8
+ChipName: Splitting chip of malachite
+Rank: 15
+Buff1: Damage
+Buff1Value: 103
+Buff2: Critical Damage
+Buff2Value: 22.2
+Buff3: Thermal
+Buff3Value: 17.2
+Buff4: Ellydium
+Buff4Value: 48.7
+ChipName: Angry chip of depth
+Rank: 15
+Buff1: Damage
+Buff1Value: 180
+Buff2: Destroyer
+Buff2Value: 40.7
+Buff3: Thermal
+Buff3Value: 71
+CompStat: Critical Chance
+CompValue: -27.6
+ChipName: Deferring chip of red
+Rank: 16
+Buff1: Heat Reduction
+Buff1Value: 61
+ChipName: Impending chip of scorch
+Rank: 13
+Buff1: Thermal
+Buff1Value: 57
+Buff2: Alien
+Buff2Value: 105
+ChipName: Crystal chip of ram
+Rank: 15
+Buff1: Critical Damage
+Buff1Value: 42
+ChipName: Skinny chip of extraneous
+Rank: 12
+Buff1: Alien
+Buff1Value: 58.0
+ChipName: Lucky chip of discharge
+Rank: 15
+Buff1: Critical Chance
+Buff1Value: 37.7
+Buff2: EM
+Buff2Value: 35.9
+CompStat: Critical Damage
+CompValue: -32.1
+ChipName: Dispersing chip of the enhanced
+Rank: 11
+Buff1: Fire Rate
+Buff1Value: 69
+CompStat: Damage
+CompValue: 22.1
+ChipName: Limp chip of squall
+Rank: 15
+Buff1: Damage
+Buff1Value: 30.5
+ChipName: Cast chip of the overblown
+Rank: 17
+Buff1: Fire Rate
+Buff1Value: 10.8
+ChipName: Saving chip of impulse
+Rank: 17
+Buff1: Alien
+Buff1Value: 34.6
+ChipName: Twin-hit chip of rumble
+Rank: 15
+Buff1: Damage
+Buff1Value: 118
+Buff2: Kinetic
+Buff2Value: 56
+CompStat: Critical Damage
+CompValue: 33.6
+ChipName: Impending chip of ram
+Rank: 16
+Buff1: Critical Damage
+Buff1Value: 39.4
+Buff2: Alien
+Buff2Value: 120
+ChipName: Depleting chip of glow
+Rank: 17
+Buff1: Alien
+Buff1Value: 61
+Buff2: EM
+Buff2Value: 41.3
+ChipName: Suspended chip of jasper
+Rank: 13
+Buff1: Ellydium
+Buff1Value: 41.3
+CompStat: Damage
+CompValue: -37.2
+ChipName: Wrathful chip of lightning
+Rank: 15
+Buff1: Damage
+Buff1Value: 193
+Buff2: EM
+Buff2Value: 66
+CompStat: Critical Chance
+CompValue: 21.2
+ChipName: Hurricane chip of fire
+Rank: 13
+Buff1: Heat Reduction
+Buff1Value: 52
+Buff2: Damage
+Buff2Value: 59
+Buff3: Thermal
+Buff3Value: 29.3
+ChipName: Accumulating chip of leaks
+Rank: 12
+Buff1: Alien
+Buff1Value: 43.4
+Buff2: Heat Reduction
+Buff2Value: 9.9
+ChipName: Backup chip of typhoon
+Rank: 16
+Buff1: Damage
+Buff1Value: 69
+Buff2: Thermal
+Buff2Value: 38
+ChipName: Hungry chip of scorch
+Rank: 16
+Buff1: Fire Rate
+Buff1Value: 20.9
+Buff2: Thermal
+Buff2Value: 55.0
+ChipName: Accumulating chip of eruption
+Rank: 17
+Buff1: Fire Rate
+Buff1Value: 26.2
+ChipName: Observant chip of polonum
+Rank: 11
+Buff1: Alien
+Buff1Value: 37.5
+ChipName: Splitting chip of knocking
+Rank: 13
+Buff1: Damage
+Buff1Value: 96
+Buff2: Kinetic
+Buff2Value: 41.7
+Buff3: Alien
+Buff3Value: 70
+ChipName: Vigorous chip of the reach
+Rank: 13
+Buff1: Alien
+Buff1Value: 47
+ChipName: Burning chip of screws
+Rank: 15
+Buff1: Thermal
+Buff1Value: 63
+Buff2: Kinetic
+Buff2Value: 34
+ChipName: Quickening chip of the small
+Rank: 15
+Buff1: Fire Rate
+Buff1Value: 88
+CompStat: Damage
+CompValue: 15.8
+ChipName: Angry chip of the tucked
+Rank: 15
+Buff1: Damage
+Buff1Value: 147
+CompStat: Critical Chance
+CompValue: -30
+ChipName: Typhoon chip of malachite
+Rank: 16
+Buff1: Critical Chance
+Buff1Value: 22.3
+Buff2: Damage
+Buff2Value: 67.0
+Buff3: Ellydium
+Buff3Value: 47.5
+ChipName: Heavy chip of the tucked
+Rank: 15
+Buff1: Alien
+Buff1Value: 86
+Buff2: Destroyer
+Buff2Value: 47.4
+ChipName: Mighty chip of the bulge
+Rank: 17
+Buff1: Destroyer
+Buff1Value: 29.4
+ChipName: Frozen chip of the boisterous
+Rank: 15
+Buff1: Kinetic
+Buff1Value: 22.4
+Buff2: Heat Reduction
+Buff2Value: 33.8
+ChipName: Splitting chip of malachite
+Rank: 15
+Buff1: Damage
+Buff1Value: 103
+Buff2: Critical Damage
+Buff2Value: 22.2
+Buff3: Thermal
+Buff3Value: 17.2
+Buff4: Ellydium
+Buff4Value: 48.7
+ChipName: Angry chip of depth
+Rank: 15
+Buff1: Damage
+Buff1Value: 180
+Buff2: Destroyer
+Buff2Value: 40.7
+Buff3: Thermal
+Buff3Value: 71
+CompStat: Critical Chance
+CompValue: -27.6
+ChipName: Deferring chip of red
+Rank: 16
+Buff1: Heat Reduction
+Buff1Value: 61
+ChipName: Impending chip of scorch
+Rank: 13
+Buff1: Thermal
+Buff1Value: 57
+Buff2: Alien
+Buff2Value: 105
+ChipName: Crystal chip of ram
+Rank: 15
+Buff1: Critical Damage
+Buff1Value: 42
+ChipName: Skinny chip of extraneous
+Rank: 12
+Buff1: Alien
+Buff1Value: 58.0
+ChipName: Lucky chip of discharge
+Rank: 15
+Buff1: Critical Chance
+Buff1Value: 37.7
+Buff2: EM
+Buff2Value: 35.9
+CompStat: Critical Damage
+CompValue: -32.1
+ChipName: Dispersing chip of the enhanced
+Rank: 11
+Buff1: Fire Rate
+Buff1Value: 69
+CompStat: Damage
+CompValue: 22.1
+ChipName: Limp chip of squall
+Rank: 15
+Buff1: Damage
+Buff1Value: 30.5
+ChipName: Cast chip of the overblown
+Rank: 17
+Buff1: Fire Rate
+Buff1Value: 10.8
+ChipName: Saving chip of impulse
+Rank: 17
+Buff1: Alien
+Buff1Value: 34.6
+ChipName: Twin-hit chip of rumble
+Rank: 15
+Buff1: Damage
+Buff1Value: 118
+Buff2: Kinetic
+Buff2Value: 56
+CompStat: Critical Damage
+CompValue: 33.6
+ChipName: Impending chip of ram
+Rank: 16
+Buff1: Critical Damage
+Buff1Value: 39.4
+Buff2: Alien
+Buff2Value: 120
+ChipName: Depleting chip of glow
+Rank: 17
+Buff1: Alien
+Buff1Value: 61
+Buff2: EM
+Buff2Value: 41.3
+ChipName: Suspended chip of jasper
+Rank: 13
+Buff1: Ellydium
+Buff1Value: 41.3
+CompStat: Damage
+CompValue: -37.2
+ChipName: Wrathful chip of lightning
+Rank: 15
+Buff1: Damage
+Buff1Value: 193
+Buff2: EM
+Buff2Value: 66
+CompStat: Critical Chance
+CompValue: 21.2

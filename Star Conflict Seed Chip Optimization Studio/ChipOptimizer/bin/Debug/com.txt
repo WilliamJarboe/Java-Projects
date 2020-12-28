@@ -1,0 +1,92 @@
+ChipName: Smart chip of spark
+Rank: 17
+Buff1: Damage
+Buff1Value: 229
+Buff2: EM
+Buff2Value: 29.5
+Buff3: Alien
+Buff3Value: 121
+CompStat: Fire Rate
+CompValue: -39.3
+ChipName: Lightning chip of urgency
+Rank: 15
+Buff1: Fire Rate
+Buff1Value: 28
+Buff2: Alien
+Buff2Value: 118
+Buff3: EM
+Buff3Value: 73
+ChipName: Critical chip of severity
+Rank: 17
+Buff1: Hull Resistance Debuff on Crit (Legendary)
+Buff1Value: 47
+Buff2: Destroyer
+Buff2Value: 28
+ChipName: Ravenous chip of alien
+Rank: 16
+Buff1: Critical Chance
+Buff1Value: 34.8
+Buff2: Heat Reduction
+Buff2Value: 53
+Buff3: Alien
+Buff3Value: 143
+CompStat: Damage
+CompValue: -42.2
+ChipName: Spreading chip of malachite
+Rank: 17
+Buff1: Fire Rate
+Buff1Value: 113
+Buff2: Thermal
+Buff2Value: 85
+Buff3: Destroyer
+Buff3Value: 38.1
+CompStat: Damage
+CompValue: -13.3
+ChipName: Whirlwind chip of instancy
+Rank: 15
+Buff1: Damage
+Buff1Value: 56
+Buff2: Alien
+Buff2Value: 102
+Buff3: Fire Rate
+Buff3Value: 30.8
+ChipName: Rapid chip of rumble
+Rank: 15
+Buff1: Fire Rate
+Buff1Value: 103
+Buff2: Alien
+Buff2Value: 77
+Buff3: Kinetic
+Buff3Value: 60
+CompStat: Critical Chance
+CompValue: -38.7
+ChipName: Seizing chip of typhoon
+Rank: 17
+Buff1: Damage
+Buff1Value: 67
+Buff2: Fire Rate
+Buff2Value: 26.9
+ChipName: wrathful chip of lightning
+Rank: 15
+Buff1: Damage
+Buff1Value: 193
+Buff2: EM
+Buff2Value: 66
+CompStat: Critical Chance
+CompValue: -21.2
+ChipName: Lightning chip of happiness
+Rank: 15
+Buff1: Critical Chance
+Buff1Value: 19.5
+Buff2: Alien
+Buff2Value: 98
+Buff3: EM
+Buff3Value: 74
+ChipName: Ramming chip of flash
+Rank: 13
+Buff1: EM
+Buff1Value: 55
+Buff2: Critical Damage
+Buff2Value: 39.1
+Buff3: Critical Chance
+Buff3Value: 9.8

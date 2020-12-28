@@ -1,0 +1,6 @@
+ChipName: test chip of help
+Rank: 17
+Buff1: Alien
+Buff1Value: 104
+Buff2: Damage
+Buff2Value: 30

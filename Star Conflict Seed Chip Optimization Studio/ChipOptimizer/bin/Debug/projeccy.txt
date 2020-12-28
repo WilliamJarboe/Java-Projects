@@ -1,0 +1,12 @@
+ChipName: Test chip of h
+Rank: 15
+Buff1: Damage
+Buff1Value: 150
+Buff2: Destroyer
+Buff2Value: 4
+ChipName: Number go up chip of Slots updown
+Rank: 17
+Buff1: Destroyer
+Buff1Value: 130
+CompStat: Heat Reduction
+CompValue: -50

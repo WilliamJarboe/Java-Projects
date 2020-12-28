@@ -1,0 +1,48 @@
+ChipName: Happy chip of epigene
+Rank: 11
+Buff1: Critical Chance
+Buff1Value: 22.2
+Buff2: Alien
+Buff2Value: 102.0
+ChipName: Roaring chip of destruction mk1
+Rank: 15
+Buff1: Critical Chance
+Buff1Value: 7.2
+Buff2: Kinetic
+Buff2Value: 62.0
+ChipName: Hurricane chip of scorch Mk1
+Rank: 17
+Buff1: Thermal
+Buff1Value: 58.0
+Buff2: Fire Rate
+Buff2Value: 34.2
+Buff3: Damage
+Buff3Value: 53.0
+ChipName: Whirlwind chip of elation Mk1
+Rank: 15
+Buff1: Critical Chance
+Buff1Value: 24.1
+Buff2: Heat Reduction
+Buff2Value: 61.0
+Buff3: Damage
+Buff3Value: 45.8
+ChipName: Whirlwind chip of malachite Mk1
+Rank: 15
+Buff1: Ellydium
+Buff1Value: 46.3
+Buff2: Critical Damage
+Buff2Value: 10.2
+Buff3: Damage
+Buff3Value: 41.4
+ChipName: Ultrasound chip of regularity
+Rank: 17
+Buff1: Kinetic
+Buff1Value: 82.0
+Buff2: Alien
+Buff2Value: 83.0
+ChipName: Elate chip of extraneous Mk3
+Rank: 17
+Buff1: Alien
+Buff1Value: 70.0
+Buff2: Critical Chance
+Buff2Value: 24.5

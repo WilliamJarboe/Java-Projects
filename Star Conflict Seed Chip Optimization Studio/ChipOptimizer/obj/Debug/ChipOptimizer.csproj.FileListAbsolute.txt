@@ -1,0 +1,14 @@
+c:\users\me\source\repos\ChipOptimizer\ChipOptimizer\bin\Debug\ChipOptimizer.exe.config
+c:\users\me\source\repos\ChipOptimizer\ChipOptimizer\bin\Debug\ChipOptimizer.exe
+c:\users\me\source\repos\ChipOptimizer\ChipOptimizer\bin\Debug\ChipOptimizer.pdb
+c:\users\me\source\repos\ChipOptimizer\ChipOptimizer\obj\Debug\ChipOptimizer.Form1.resources
+c:\users\me\source\repos\ChipOptimizer\ChipOptimizer\obj\Debug\ChipOptimizer.Properties.Resources.resources
+c:\users\me\source\repos\ChipOptimizer\ChipOptimizer\obj\Debug\ChipOptimizer.csproj.GenerateResource.Cache
+c:\users\me\source\repos\ChipOptimizer\ChipOptimizer\obj\Debug\ChipOptimizer.csproj.CoreCompileInputs.cache
+c:\users\me\source\repos\ChipOptimizer\ChipOptimizer\obj\Debug\ChipOptimizer.exe
+c:\users\me\source\repos\ChipOptimizer\ChipOptimizer\obj\Debug\ChipOptimizer.pdb
+C:\Users\ME\source\repos\ChipOptimizer\ChipOptimizer\bin\Debug\ChipOptimizer.exe.manifest
+C:\Users\ME\source\repos\ChipOptimizer\ChipOptimizer\bin\Debug\ChipOptimizer.application
+C:\Users\ME\source\repos\ChipOptimizer\ChipOptimizer\obj\Debug\ChipOptimizer.exe.manifest
+C:\Users\ME\source\repos\ChipOptimizer\ChipOptimizer\obj\Debug\ChipOptimizer.application
+C:\Users\ME\source\repos\ChipOptimizer\ChipOptimizer\obj\Debug\ChipOptimizer.csprojAssemblyReference.cache
