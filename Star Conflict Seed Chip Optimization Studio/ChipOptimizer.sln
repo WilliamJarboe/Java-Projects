@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChipOptimizer", "ChipOptimizer\ChipOptimizer.csproj", "{5A709F44-645C-4931-96C2-0F1A53345565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A709F44-645C-4931-96C2-0F1A53345565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A709F44-645C-4931-96C2-0F1A53345565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A709F44-645C-4931-96C2-0F1A53345565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A709F44-645C-4931-96C2-0F1A53345565}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {762E5681-B0D9-4E77-B2FD-C4A404154D85}
+	EndGlobalSection
+EndGlobal
