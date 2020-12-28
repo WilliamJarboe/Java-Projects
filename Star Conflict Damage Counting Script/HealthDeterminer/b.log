@@ -1,0 +1,479 @@
+
+--- Date: 2019-04-18 (Thu Apr 2019) Central Daylight Time UTC-06:00
+
+16:29:08.689  CMBT   | 
+16:29:08.689  CMBT   | ======= Connect to game session 154618823133, zoneId 201 <undock> =======
+16:29:13.127  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:29:13.128  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:29:13.130  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:29:13.133  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:29:13.135  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:29:13.136  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:29:13.137  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:29:13.139  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:29:13.139  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:29:13.140  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:29:13.141  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:29:13.142  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:29:13.143  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:29:13.144  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:29:13.145  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:29:13.147  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:29:13.148  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:29:13.149  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:29:13.150  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:29:13.151  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:29:13.152  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:29:13.154  CMBT   | Spawn SpaceShip for player1 (CuteShips, #3559643). 'Ship_Race5_M_ATTACK_Rank9_7'
+16:29:13.159  CMBT   | Spell 'SpawnInvulnerabilityFreeSpace' by CuteShips targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:29:13.159  CMBT   | Spell 'GreenHalfHeal' by CuteShips(ModuleArmor_Green_Mk8) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:29:13.178  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 48 type AURA_CRIT_CHANCE to 'NPC1'
+16:29:13.178  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 49 type AURA_CRIT_CHANCE to 'NPC2'
+16:29:13.178  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 50 type AURA_CRIT_CHANCE to 'NPC3'
+16:29:13.178  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 65 type AURA_CRIT_CHANCE to 'NPC7'
+16:29:13.178  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 66 type AURA_CRIT_CHANCE to 'NPC8'
+16:29:13.178  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 67 type AURA_CRIT_CHANCE to 'NPC9'
+16:29:13.178  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 68 type AURA_CRIT_CHANCE to 'NPC10'
+16:29:13.178  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 70 type AURA_CRIT_CHANCE to 'NPC14'
+16:29:13.178  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 71 type AURA_CRIT_CHANCE to 'NPC15'
+16:29:13.178  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 73 type AURA_CRIT_CHANCE to 'NPC16'
+16:29:13.178  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 75 type AURA_CRIT_CHANCE to 'NPC17'
+16:29:13.178  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 76 type AURA_CRIT_CHANCE to 'NPC18'
+16:29:13.180  CMBT   | Apply aura 'SpawnInvulnerabilityFreeSpace' id 238 type AURA_INVULNERABILITY to 'CuteShips'
+16:29:13.180  CMBT   | Apply aura 'GreenHalfHeal' id 239 type AURA_REDUCE_HEAL to 'CuteShips'
+16:29:15.031  CMBT   | ======= Start gameplay 'FreeSpace' map 'transit_emp_rock_frontier_e_ow', local client team 18 =======
+16:29:18.135  CMBT   | Spell 'GreenHeal' by CuteShips(ModuleArmor_Green_Mk8) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:29:18.135  CMBT   | Spell 'Spell_ExtremeShieldCharge_T3_Epic' by CuteShips(Module_ExtremeShieldCharge_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:29:18.249  CMBT   | Apply aura 'GreenHeal' id 240 type AURA_HEAL_HULL_PERIODIC to 'CuteShips'
+16:29:18.251  CMBT   | Apply aura 'Spell_ExtremeShieldCharge_T3_Epic' id 241 type AURA_HEAL_SHIELD_SCALED_PERIODIC to 'CuteShips'
+16:29:20.826  CMBT   | Spell 'Spell_GreenComputerOverload_T3_Epic' by CuteShips(Module_GreenComputerOverload_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:29:20.940  CMBT   | Apply aura 'Spell_GreenComputerOverload_T3_Epic' id 242 type AURA_DAMAGE_MOD to 'CuteShips'
+16:29:23.182  CMBT   | Cancel aura 'SpawnInvulnerabilityFreeSpace' id 238 type AURA_INVULNERABILITY from 'CuteShips'
+16:29:28.006  CMBT   | Spell 'Spell_GreenJump' by CuteShips(Module_GreenJumpOnStrafe_T4_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:29:28.406  CMBT   | Cancel aura 'GreenHeal' id 240 type AURA_HEAL_HULL_PERIODIC from 'CuteShips'
+16:29:28.409  CMBT   | Cancel aura 'Spell_ExtremeShieldCharge_T3_Epic' id 241 type AURA_HEAL_SHIELD_SCALED_PERIODIC from 'CuteShips'
+16:29:28.411  CMBT   | Spell 'ShieldExplosion_T3_Epic' by CuteShips(Module_ShieldExplosion_T3_Epic) targets(1): NPC6(C_Mercenary_M_T2_terf)
+16:29:28.411  CMBT   | Spell 'AfterShock_T3_Epic' by CuteShips(Module_AfterShock_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:29:28.413  CMBT   | Damage        CuteShips|0000000506 ->             NPC6|0000000250 888.83 (h:0.00 s:888.83) Module_AfterShock_T3_Epic THERMAL  
+16:29:28.413  CMBT   | Damage        CuteShips|0000000506 ->             NPC6|0000000250 9674.88 (h:9275.38 s:399.50) Module_ShieldExplosion_T3_Epic EMP  
+16:29:28.413  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:29:28.414  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +6 karma points    for kill 
+16:29:28.414  CMBT   | Killed C_Mercenary_M_T2_terf|0000000250;	 killer CuteShips|0000000506 
+16:29:28.414  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 3308.33; mostDamageWith 'Module_ShieldExplosion_T3_Epic'; <debuff>
+16:29:28.414  CMBT   | Spell 'ShieldExplosion_T3_Epic_Renew' by CuteShips(Module_ShieldExplosion_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:29:28.414  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 102.50 Module_ShieldExplosion_T3_Epic
+16:29:28.472  CMBT   | Apply aura 'AfterShock_T3_Epic' id 243 type AURA_DAMAGE_THERMAL_SCALED to 'NPC4'
+16:29:28.472  CMBT   | Apply aura 'AfterShock_T3_Epic' id 243 type AURA_DAMAGE_THERMAL_SCALED to 'NPC5'
+16:29:28.474  CMBT   | Apply aura 'ShieldExplosion_T3_Epic_Renew' id 244 type AURA_HEAL_SHIELD_PERIODIC to 'CuteShips'
+16:29:28.525  CMBT   | Damage        CuteShips|0000000506 ->             NPC4|0000000218 829.53 (h:0.00 s:829.53) Module_AfterShock_T3_Epic THERMAL  
+16:29:28.525  CMBT   | Damage        CuteShips|0000000506 ->             NPC5|0000000234 754.42 (h:0.00 s:754.42) Module_AfterShock_T3_Epic THERMAL  
+16:29:28.972  CMBT   | Damage        CuteShips|0000000506 ->             NPC4|0000000218 811.79 (h:337.84 s:473.95) Module_AfterShock_T3_Epic THERMAL  
+16:29:28.973  CMBT   | Damage        CuteShips|0000000506 ->             NPC5|0000000234 757.29 (h:208.23 s:549.07) Module_AfterShock_T3_Epic THERMAL  
+16:29:29.369  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 102.50 Module_ShieldExplosion_T3_Epic
+16:29:29.470  CMBT   | Damage        CuteShips|0000000506 ->             NPC4|0000000218 786.59 (h:771.39 s:15.20) Module_AfterShock_T3_Epic THERMAL  
+16:29:29.471  CMBT   | Damage        CuteShips|0000000506 ->             NPC5|0000000234 725.13 (h:709.93 s:15.20) Module_AfterShock_T3_Epic THERMAL  
+16:29:29.918  CMBT   | Spell 'BuffNearDeath_big' by NPC4(Module_Computer_Medium_Mk1) targets(0):
+16:29:29.918  CMBT   | Spell 'BuffNearDeath_big' by NPC5(Module_Computer_Medium_Mk1) targets(0):
+16:29:29.974  CMBT   | Damage        CuteShips|0000000506 ->             NPC4|0000000218 828.37 (h:813.23 s:15.14) Module_AfterShock_T3_Epic THERMAL  
+16:29:29.975  CMBT   | Damage        CuteShips|0000000506 ->             NPC5|0000000234 770.26 (h:755.12 s:15.14) Module_AfterShock_T3_Epic THERMAL  
+16:29:30.367  CMBT   | Damage        CuteShips|0000000506 ->             NPC4|0000000218 860.12 (h:844.93 s:15.19) Module_AfterShock_T3_Epic THERMAL  
+16:29:30.367  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:29:30.368  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +6 karma points    for kill 
+16:29:30.368  CMBT   | Killed C_Mercenary_M_T2_terf|0000000218;	 killer CuteShips|0000000506 
+16:29:30.368  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 3369.01; mostDamageWith 'Module_AfterShock_T3_Epic'; <debuff>
+16:29:30.369  CMBT   | Damage        CuteShips|0000000506 ->             NPC5|0000000234 802.77 (h:787.58 s:15.19) Module_AfterShock_T3_Epic THERMAL  
+16:29:30.369  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:29:30.369  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +6 karma points    for kill 
+16:29:30.369  CMBT   | Killed C_Mercenary_M_T2_terf|0000000234;	 killer CuteShips|0000000506 
+16:29:30.369  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 3369.01; mostDamageWith 'Module_AfterShock_T3_Epic'; <debuff>
+16:29:30.370  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 102.50 Module_ShieldExplosion_T3_Epic
+16:29:30.427  CMBT   | Cancel aura 'AfterShock_T3_Epic' id 243 type AURA_DAMAGE_THERMAL_SCALED from 'NPC4'
+16:29:30.427  CMBT   | Cancel aura 'AfterShock_T3_Epic' id 243 type AURA_DAMAGE_THERMAL_SCALED from 'NPC5'
+16:29:31.380  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 102.50 Module_ShieldExplosion_T3_Epic
+16:29:32.388  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 102.50 Module_ShieldExplosion_T3_Epic
+16:29:33.355  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 102.50 Module_ShieldExplosion_T3_Epic
+16:29:33.411  CMBT   | Spell 'GreenHeal' by CuteShips(ModuleArmor_Green_Mk8) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:29:33.411  CMBT   | Spell 'Spell_ExtremeShieldCharge_T3_Epic' by CuteShips(Module_ExtremeShieldCharge_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:29:33.411  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:33.512  CMBT   | Apply aura 'GreenHeal' id 245 type AURA_HEAL_HULL_PERIODIC to 'CuteShips'
+16:29:33.516  CMBT   | Apply aura 'Spell_ExtremeShieldCharge_T3_Epic' id 246 type AURA_HEAL_SHIELD_SCALED_PERIODIC to 'CuteShips'
+16:29:33.904  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:34.365  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 102.50 Module_ShieldExplosion_T3_Epic
+16:29:34.421  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:34.925  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:35.373  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 102.50 Module_ShieldExplosion_T3_Epic
+16:29:35.429  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:35.933  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:36.381  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 102.50 Module_ShieldExplosion_T3_Epic
+16:29:36.450  CMBT   | Cancel aura 'ShieldExplosion_T3_Epic_Renew' id 244 type AURA_HEAL_SHIELD_PERIODIC from 'CuteShips'
+16:29:36.457  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:36.942  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:37.448  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:37.953  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:38.456  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:38.907  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:39.411  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:39.916  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:40.423  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:40.927  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:41.446  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:41.950  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:42.441  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:42.945  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:43.408  CMBT   | Looted 'ow_Crystal_shard' from 'LootCrate_OW2_Ore_Common'
+16:29:43.464  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:43.912  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:44.403  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:44.922  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:45.426  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:29:45.932  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506  14.62 Module_ExtremeShieldCharge_T3_Epic
+16:29:52.893  CMBT   | Spell 'Spell_FocusShieldCharge_T3_Epic' by CuteShips(Module_FocusShieldCharge_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:29:52.952  CMBT   | Set stage 2 for aura 'Spell_FocusShieldCharge_T3_Epic'[0] id 259
+16:29:52.952  CMBT   | Apply aura 'Spell_FocusShieldCharge_T3_Epic' id 259 type AURA_HEAL_SHIELD_SCALED_PERIODIC to 'CuteShips'
+16:29:52.955  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506  45.37 Module_ExtremeShieldCharge_T3_Epic
+16:29:53.006  CMBT   | Damage             NPC1|0000000170 ->        CuteShips|0000000506  17.10 (h:0.00 s:17.10) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:29:53.006  CMBT   | Damage             NPC3|0000000202 ->        CuteShips|0000000506  12.83 (h:0.00 s:12.83) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:29:53.006  CMBT   | Damage             NPC2|0000000186 ->        CuteShips|0000000506  17.10 (h:0.00 s:17.10) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:29:53.175  CMBT   | Cancel aura 'GreenHeal' id 245 type AURA_HEAL_HULL_PERIODIC from 'CuteShips'
+16:29:53.180  CMBT   | Cancel aura 'Spell_ExtremeShieldCharge_T3_Epic' id 246 type AURA_HEAL_SHIELD_SCALED_PERIODIC from 'CuteShips'
+16:29:53.361  CMBT   | Damage             NPC3|0000000202 ->        CuteShips|0000000506  20.42 (h:0.00 s:20.42) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:29:53.362  CMBT   | Damage             NPC2|0000000186 ->        CuteShips|0000000506  20.42 (h:0.00 s:20.42) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:29:53.362  CMBT   | Damage             NPC1|0000000170 ->        CuteShips|0000000506  15.31 (h:0.00 s:15.31) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:29:53.678  CMBT   | Damage             NPC3|0000000202 ->        CuteShips|0000000506  35.64 (h:0.00 s:35.64) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:29:53.678  CMBT   | Damage             NPC2|0000000186 ->        CuteShips|0000000506  71.28 (h:0.00 s:71.28) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:29:53.741  CMBT   | Damage             NPC1|0000000170 ->        CuteShips|0000000506  30.64 (h:0.00 s:30.64) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:29:53.909  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 176.23 Module_FocusShieldCharge_T3_Epic
+16:29:54.007  CMBT   | Spell 'BuffNearDeath_big' by NPC2(Module_Computer_Medium_Mk1) targets(0):
+16:29:54.078  CMBT   | Damage        CuteShips|0000000506 ->             NPC2|0000000186 2839.11 (h:1427.80 s:1411.31) Weapon_FrySatellite THERMAL|PRIMARY_WEAPON  
+16:29:54.078  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:29:54.079  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +5 karma points    for kill 
+16:29:54.079  CMBT   | Killed C_Pirates_M_T2_terf|0000000186;	 killer CuteShips|0000000506 
+16:29:54.079  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 2789.65; mostDamageWith 'Weapon_FrySatellite';
+16:29:54.079  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 49 type AURA_CRIT_CHANCE from 'NPC2'
+16:29:54.079  CMBT   | Damage             NPC2|0000000186 ->        CuteShips|0000000506  22.26 (h:0.00 s:22.26) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:29:54.079  CMBT   | Damage             NPC1|0000000170 ->        CuteShips|0000000506  33.39 (h:0.00 s:33.39) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:29:54.079  CMBT   | Damage             NPC3|0000000202 ->        CuteShips|0000000506  44.52 (h:0.00 s:44.52) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:29:54.414  CMBT   | Damage             NPC1|0000000170 ->        CuteShips|0000000506  46.41 (h:0.00 s:46.41) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:29:54.414  CMBT   | Damage             NPC3|0000000202 ->        CuteShips|0000000506  69.61 (h:0.00 s:69.61) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:29:54.753  CMBT   | Damage             NPC3|0000000202 ->        CuteShips|0000000506  52.21 (h:0.00 s:52.21) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:29:54.810  CMBT   | Damage             NPC1|0000000170 ->        CuteShips|0000000506  46.41 (h:0.00 s:46.41) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:29:54.923  CMBT   | Spell 'BuffNearDeath_big' by NPC3(Module_Computer_Medium_Mk1) targets(0):
+16:29:54.923  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 213.28 Module_FocusShieldCharge_T3_Epic
+16:29:54.981  CMBT   | Damage        CuteShips|0000000506 ->             NPC3|0000000202 2812.39 (h:1401.05 s:1411.34) Weapon_FrySatellite THERMAL|PRIMARY_WEAPON  
+16:29:54.982  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:29:54.982  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +5 karma points    for kill 
+16:29:54.982  CMBT   | Killed C_Pirates_M_T2_terf|0000000202;	 killer CuteShips|0000000506 
+16:29:54.982  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 2789.67; mostDamageWith 'Weapon_FrySatellite';
+16:29:54.982  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 50 type AURA_CRIT_CHANCE from 'NPC3'
+16:29:55.150  CMBT   | Damage              n/a|-000000001 ->        CuteShips|0000000506  44.09 (h:0.00 s:44.09) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:29:55.150  CMBT   | Damage             NPC1|0000000170 ->        CuteShips|0000000506  69.61 (h:0.00 s:69.61) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:29:55.474  CMBT   | Damage             NPC1|0000000170 ->        CuteShips|0000000506  24.14 (h:0.00 s:24.14) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:29:55.755  CMBT   | Spell 'BuffNearDeath_big' by NPC1(Module_Computer_Medium_Mk1) targets(0):
+16:29:55.813  CMBT   | Damage        CuteShips|0000000506 ->             NPC1|0000000170 2801.30 (h:1390.05 s:1411.25) Weapon_FrySatellite THERMAL|PRIMARY_WEAPON  
+16:29:55.813  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:29:55.813  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +5 karma points    for kill 
+16:29:55.813  CMBT   | Killed C_Pirates_M_T2_terf|0000000170;	 killer CuteShips|0000000506 
+16:29:55.813  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 2789.58; mostDamageWith 'Weapon_FrySatellite';
+16:29:55.813  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 48 type AURA_CRIT_CHANCE from 'NPC1'
+16:29:55.870  CMBT   | Damage              n/a|-000000001 ->        CuteShips|0000000506  36.21 (h:0.00 s:36.21) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:29:55.920  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 213.28 Module_FocusShieldCharge_T3_Epic
+16:29:56.539  CMBT   | Spell 'CrystalFrySatellites_9' by CuteShips(Module_CrystalFrySatellites_9) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:29:56.539  CMBT   | Spell 'CrystalFrySatellites_9' by CuteShips(Module_CrystalFrySatellites_9) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:29:56.539  CMBT   | Spell 'CrystalFrySatellites_9' by CuteShips(Module_CrystalFrySatellites_9) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:29:56.542  CMBT   | Apply aura 'CrystalFrySatellites_9' id 325 type AURA_HEAL_HULL_PERIODIC to 'CuteShips'
+16:29:56.547  CMBT   | Apply aura 'CrystalFrySatellites_9' id 326 type AURA_HEAL_HULL_PERIODIC to 'CuteShips'
+16:29:56.552  CMBT   | Apply aura 'CrystalFrySatellites_9' id 327 type AURA_HEAL_HULL_PERIODIC to 'CuteShips'
+16:29:56.556  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 1372.50 Module_CrystalFrySatellites_9
+16:29:57.490  CMBT   | Heal          CuteShips|0000000506 ->        CuteShips|0000000506 547.50 Module_CrystalFrySatellites_9
+16:29:59.117  CMBT   | Cancel aura 'Spell_GreenComputerOverload_T3_Epic' id 242 type AURA_DAMAGE_MOD from 'CuteShips'
+16:29:59.565  CMBT   | Cancel aura 'CrystalFrySatellites_9' id 327 type AURA_HEAL_HULL_PERIODIC from 'CuteShips'
+16:29:59.569  CMBT   | Cancel aura 'CrystalFrySatellites_9' id 325 type AURA_HEAL_HULL_PERIODIC from 'CuteShips'
+16:29:59.572  CMBT   | Cancel aura 'CrystalFrySatellites_9' id 326 type AURA_HEAL_HULL_PERIODIC from 'CuteShips'
+16:30:01.079  CMBT   | Looted 'Module_Backstab_T2_Mk1' from 'LootCrate_Loot_52_ranks_5_5'
+16:30:01.584  CMBT   | Spell 'GreenHeal' by CuteShips(ModuleArmor_Green_Mk8) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:30:01.584  CMBT   | Spell 'Spell_ExtremeShieldCharge_T3_Epic' by CuteShips(Module_ExtremeShieldCharge_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:30:01.713  CMBT   | Apply aura 'GreenHeal' id 328 type AURA_HEAL_HULL_PERIODIC to 'CuteShips'
+16:30:01.717  CMBT   | Apply aura 'Spell_ExtremeShieldCharge_T3_Epic' id 329 type AURA_HEAL_SHIELD_SCALED_PERIODIC to 'CuteShips'
+16:30:04.065  CMBT   | Set stage 1 for aura 'Spell_FocusShieldCharge_T3_Epic'[0] id 259
+16:30:05.185  CMBT   | Set stage 0 for aura 'Spell_FocusShieldCharge_T3_Epic'[0] id 259
+16:30:05.802  CMBT   | Cancel aura 'Spell_FocusShieldCharge_T3_Epic' id 259 type AURA_HEAL_SHIELD_SCALED_PERIODIC from 'CuteShips'
+16:30:32.216  CMBT   | Spell 'JumpDockInvulnerabilityFreeSpace' by CuteShips targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:30:32.355  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 76 type AURA_CRIT_CHANCE from 'NPC18'
+16:30:32.355  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 73 type AURA_CRIT_CHANCE from 'NPC16'
+16:30:32.355  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 71 type AURA_CRIT_CHANCE from 'NPC15'
+16:30:32.355  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 70 type AURA_CRIT_CHANCE from 'NPC14'
+16:30:32.355  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 68 type AURA_CRIT_CHANCE from 'NPC10'
+16:30:32.355  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 67 type AURA_CRIT_CHANCE from 'NPC9'
+16:30:32.355  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 66 type AURA_CRIT_CHANCE from 'NPC8'
+16:30:32.355  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 65 type AURA_CRIT_CHANCE from 'NPC7'
+16:30:32.356  CMBT   | Cancel aura 'GreenHeal' id 328 type AURA_HEAL_HULL_PERIODIC from 'CuteShips'
+16:30:32.356  CMBT   | Cancel aura 'Spell_ExtremeShieldCharge_T3_Epic' id 329 type AURA_HEAL_SHIELD_SCALED_PERIODIC from 'CuteShips'
+16:30:32.356  CMBT   | Cancel aura 'GreenHalfHeal' id 239 type AURA_REDUCE_HEAL from 'CuteShips'
+16:30:32.356  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 75 type AURA_CRIT_CHANCE from 'NPC17'
+16:31:30.424  CMBT   | 
+16:31:30.424  CMBT   | ======= Connect to game session 154618823133, zoneId 201 <undock> =======
+16:31:32.289  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:31:32.290  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:31:32.291  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:31:32.293  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:31:32.294  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:31:32.296  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:31:32.298  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:31:32.299  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:31:32.300  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:31:32.301  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Pirates_M_T2_terf'
+16:31:32.302  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:31:32.303  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:31:32.304  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:31:32.306  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:31:32.307  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:31:32.308  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:31:32.309  CMBT   | Spawn SpaceShip for player-1 (, #0). 'C_Mercenary_M_T2_terf'
+16:31:32.313  CMBT   | Spawn SpaceShip for player1 (CuteShips, #3559643). 'Ship_Race5_M_ATTACK_Rank9_7'
+16:31:32.319  CMBT   | Spell 'SpawnInvulnerabilityFreeSpace' by CuteShips targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:31:32.319  CMBT   | Spell 'GreenHalfHeal' by CuteShips(ModuleArmor_Green_Mk8) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:31:32.342  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 65 type AURA_CRIT_CHANCE to 'NPC7'
+16:31:32.342  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 66 type AURA_CRIT_CHANCE to 'NPC8'
+16:31:32.342  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 67 type AURA_CRIT_CHANCE to 'NPC9'
+16:31:32.342  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 68 type AURA_CRIT_CHANCE to 'NPC10'
+16:31:32.342  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 70 type AURA_CRIT_CHANCE to 'NPC14'
+16:31:32.342  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 71 type AURA_CRIT_CHANCE to 'NPC15'
+16:31:32.342  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 73 type AURA_CRIT_CHANCE to 'NPC16'
+16:31:32.342  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 75 type AURA_CRIT_CHANCE to 'NPC17'
+16:31:32.343  CMBT   | Apply aura 'SpawnInvulnerabilityFreeSpace' id 678 type AURA_INVULNERABILITY to 'CuteShips'
+16:31:32.343  CMBT   | Apply aura 'GreenHalfHeal' id 679 type AURA_REDUCE_HEAL to 'CuteShips'
+16:31:34.103  CMBT   | ======= Start gameplay 'FreeSpace' map 'transit_emp_rock_frontier_e_ow', local client team 18 =======
+16:31:37.336  CMBT   | Spell 'GreenHeal' by CuteShips(ModuleArmor_Green_Mk8) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:31:37.336  CMBT   | Spell 'Spell_ExtremeShieldCharge_T3_Epic' by CuteShips(Module_ExtremeShieldCharge_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:31:37.394  CMBT   | Apply aura 'GreenHeal' id 680 type AURA_HEAL_HULL_PERIODIC to 'CuteShips'
+16:31:37.396  CMBT   | Apply aura 'Spell_ExtremeShieldCharge_T3_Epic' id 681 type AURA_HEAL_SHIELD_SCALED_PERIODIC to 'CuteShips'
+16:31:39.701  CMBT   | Spell 'Spell_GreenComputerOverload_T3_Epic' by CuteShips(Module_GreenComputerOverload_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:31:39.760  CMBT   | Apply aura 'Spell_GreenComputerOverload_T3_Epic' id 682 type AURA_DAMAGE_MOD to 'CuteShips'
+16:31:42.346  CMBT   | Cancel aura 'SpawnInvulnerabilityFreeSpace' id 678 type AURA_INVULNERABILITY from 'CuteShips'
+16:31:59.971  CMBT   | Spell 'FederationCritBuffOnMovement' by NPC29(ModuleArmor_Federation_Mk1) targets(1): NPC29(C_Pirates_M_T2_terf)
+16:31:59.971  CMBT   | Spell 'FederationCritBuffOnMovement' by NPC30(ModuleArmor_Federation_Mk1) targets(1): NPC30(C_Pirates_M_T2_terf)
+16:31:59.971  CMBT   | Spell 'FederationCritBuffOnMovement' by NPC31(ModuleArmor_Federation_Mk1) targets(1): NPC31(C_Pirates_M_T2_terf)
+16:32:00.083  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 686 type AURA_CRIT_CHANCE to 'NPC29'
+16:32:00.083  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 687 type AURA_CRIT_CHANCE to 'NPC30'
+16:32:00.083  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 688 type AURA_CRIT_CHANCE to 'NPC31'
+16:32:06.763  CMBT   | Cancel aura 'GreenHeal' id 680 type AURA_HEAL_HULL_PERIODIC from 'CuteShips'
+16:32:06.766  CMBT   | Cancel aura 'Spell_ExtremeShieldCharge_T3_Epic' id 681 type AURA_HEAL_SHIELD_SCALED_PERIODIC from 'CuteShips'
+16:32:08.502  CMBT   | Damage        CuteShips|0000000442 ->            NPC29|0000000695 1604.68 (h:213.02 s:1391.67) Weapon_HeatingGun_T3_Epic EMP|PRIMARY_WEAPON  
+16:32:08.773  CMBT   | Damage        CuteShips|0000000442 ->            NPC30|0000000712 1725.50 (h:333.83 s:1391.67) Weapon_HeatingGun_T3_Epic EMP|PRIMARY_WEAPON  
+16:32:08.941  CMBT   | Spell 'BuffNearDeath_big' by NPC29(Module_Computer_Medium_Mk1) targets(0):
+16:32:09.011  CMBT   | Damage        CuteShips|0000000442 ->            NPC29|0000000695 900.37 (h:887.72 s:12.65) Weapon_HeatingGun_T3_Epic EMP|PRIMARY_WEAPON  
+16:32:09.180  CMBT   | Damage        CuteShips|0000000442 ->            NPC29|0000000695 331.51 (h:324.48 s:7.02) Weapon_HeatingGun_T3_Epic EMP|PRIMARY_WEAPON  
+16:32:09.180  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:32:09.181  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +5 karma points    for kill 
+16:32:09.181  CMBT   | Killed C_Pirates_M_T2_terf|0000000695;	 killer CuteShips|0000000442 
+16:32:09.181  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 2789.67; mostDamageWith 'Weapon_HeatingGun_T3_Epic';
+16:32:09.227  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 686 type AURA_CRIT_CHANCE from 'NPC29'
+16:32:09.560  CMBT   | Spell 'Spell_FocusShieldCharge_T3_Epic' by CuteShips(Module_FocusShieldCharge_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:32:09.560  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442  21.65 Module_FocusShieldCharge_T3_Epic
+16:32:09.620  CMBT   | Apply aura 'Spell_FocusShieldCharge_T3_Epic' id 739 type AURA_HEAL_SHIELD_SCALED_PERIODIC to 'CuteShips'
+16:32:09.675  CMBT   | Damage              n/a|-000000001 ->        CuteShips|0000000442  21.65 (h:0.00 s:21.65) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:32:09.675  CMBT   | Damage            NPC31|0000000729 ->        CuteShips|0000000442  20.57 (h:0.00 s:20.57) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:32:09.731  CMBT   | Set stage 2 for aura 'Spell_FocusShieldCharge_T3_Epic'[0] id 739
+16:32:09.731  CMBT   | Damage            NPC30|0000000712 ->        CuteShips|0000000442   5.19 (h:0.00 s:5.19) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:32:10.466  CMBT   | Damage            NPC31|0000000729 ->        CuteShips|0000000442  13.71 (h:0.00 s:13.71) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:32:10.578  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442   2.87 Module_FocusShieldCharge_T3_Epic
+16:32:10.634  CMBT   | Cancel aura 'Spell_GreenComputerOverload_T3_Epic' id 682 type AURA_DAMAGE_MOD from 'CuteShips'
+16:32:10.803  CMBT   | Damage            NPC31|0000000729 ->        CuteShips|0000000442  12.78 (h:0.00 s:12.78) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:32:10.859  CMBT   | Damage            NPC30|0000000712 ->        CuteShips|0000000442  10.25 (h:0.00 s:10.25) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:32:11.196  CMBT   | Damage            NPC31|0000000729 ->        CuteShips|0000000442  24.90 (h:0.00 s:24.90) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:32:11.522  CMBT   | Damage            NPC31|0000000729 ->        CuteShips|0000000442  18.21 (h:0.00 s:18.21) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:32:11.577  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442  22.91 Module_FocusShieldCharge_T3_Epic
+16:32:11.702  CMBT   | Damage        CuteShips|0000000442 ->            NPC31|0000000729 3030.96 (h:1637.90 s:1393.07) Weapon_HeatingGun_T3_Epic EMP|PRIMARY_WEAPON|CRIT  
+16:32:11.703  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:32:11.703  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +5 karma points    for kill 
+16:32:11.703  CMBT   | Killed C_Pirates_M_T2_terf|0000000729;	 killer CuteShips|0000000442 
+16:32:11.703  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 2771.40; mostDamageWith 'Weapon_HeatingGun_T3_Epic';
+16:32:11.759  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 688 type AURA_CRIT_CHANCE from 'NPC31'
+16:32:11.914  CMBT   | Damage              n/a|-000000001 ->        CuteShips|0000000442   9.83 (h:0.00 s:9.83) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:32:12.025  CMBT   | Cancel aura 'FederationCritBuffOnMovement' id 687 type AURA_CRIT_CHANCE from 'NPC30'
+16:32:12.025  CMBT   | Damage            NPC30|0000000712 ->        CuteShips|0000000442  13.94 (h:0.00 s:13.94) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:32:12.758  CMBT   | Damage            NPC30|0000000712 ->        CuteShips|0000000442  25.85 (h:0.00 s:25.85) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:32:13.488  CMBT   | Damage        CuteShips|0000000442 ->            NPC30|0000000712 613.99 (h:497.58 s:116.42) Weapon_HeatingGun_T3_Epic EMP|PRIMARY_WEAPON  
+16:32:13.558  CMBT   | Damage            NPC30|0000000712 ->        CuteShips|0000000442  13.00 (h:0.00 s:13.00) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:32:13.614  CMBT   | Spell 'BuffNearDeath_big' by NPC30(Module_Computer_Medium_Mk1) targets(0):
+16:32:13.614  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442   4.85 Module_FocusShieldCharge_T3_Epic
+16:32:13.726  CMBT   | Damage        CuteShips|0000000442 ->            NPC30|0000000712 308.76 (h:303.14 s:5.62) Weapon_HeatingGun_T3_Epic EMP|PRIMARY_WEAPON  
+16:32:13.839  CMBT   | Damage        CuteShips|0000000442 ->            NPC30|0000000712 315.40 (h:309.77 s:5.63) Weapon_HeatingGun_T3_Epic EMP|PRIMARY_WEAPON  
+16:32:13.839  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:32:13.840  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +5 karma points    for kill 
+16:32:13.840  CMBT   | Killed C_Pirates_M_T2_terf|0000000712;	 killer CuteShips|0000000442 
+16:32:13.840  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 2897.66; mostDamageWith 'Weapon_HeatingGun_T3_Epic';
+16:32:14.169  CMBT   | Damage              n/a|-000000001 ->        CuteShips|0000000442  26.86 (h:0.00 s:26.86) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:32:19.383  CMBT   | Spell 'GreenHeal' by CuteShips(ModuleArmor_Green_Mk8) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:32:19.383  CMBT   | Spell 'Spell_ExtremeShieldCharge_T3_Epic' by CuteShips(Module_ExtremeShieldCharge_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:32:19.496  CMBT   | Apply aura 'GreenHeal' id 833 type AURA_HEAL_HULL_PERIODIC to 'CuteShips'
+16:32:19.498  CMBT   | Apply aura 'Spell_ExtremeShieldCharge_T3_Epic' id 834 type AURA_HEAL_SHIELD_SCALED_PERIODIC to 'CuteShips'
+16:32:19.719  CMBT   | Set stage 1 for aura 'Spell_FocusShieldCharge_T3_Epic'[0] id 739
+16:32:21.862  CMBT   | Set stage 0 for aura 'Spell_FocusShieldCharge_T3_Epic'[0] id 739
+16:32:24.061  CMBT   | Cancel aura 'Spell_FocusShieldCharge_T3_Epic' id 739 type AURA_HEAL_SHIELD_SCALED_PERIODIC from 'CuteShips'
+16:32:45.350  CMBT   | Spell 'Spell_GreenComputerOverload_T3_Epic' by CuteShips(Module_GreenComputerOverload_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:32:45.465  CMBT   | Apply aura 'Spell_GreenComputerOverload_T3_Epic' id 835 type AURA_DAMAGE_MOD to 'CuteShips'
+16:33:00.806  CMBT   | Cancel aura 'Spell_GreenComputerOverload_T3_Epic' id 835 type AURA_DAMAGE_MOD from 'CuteShips'
+16:33:00.862  CMBT   | Looted 'Special_recreation_matrix' from 'LootCrate_OW2_GoodJunk2'
+16:33:01.930  CMBT   | Spell 'Spell_GreenComputerOverload_T3_Epic' by CuteShips(Module_GreenComputerOverload_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:33:01.988  CMBT   | Apply aura 'Spell_GreenComputerOverload_T3_Epic' id 836 type AURA_DAMAGE_MOD to 'CuteShips'
+16:33:02.378  CMBT   | Cancel aura 'Spell_GreenComputerOverload_T3_Epic' id 836 type AURA_DAMAGE_MOD from 'CuteShips'
+16:33:02.647  CMBT   | Spell 'Spell_GreenComputerOverload_T3_Epic' by CuteShips(Module_GreenComputerOverload_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:33:02.761  CMBT   | Apply aura 'Spell_GreenComputerOverload_T3_Epic' id 837 type AURA_DAMAGE_MOD to 'CuteShips'
+16:33:17.310  CMBT   | Spell 'Spell_FocusShieldCharge_T3_Epic' by CuteShips(Module_FocusShieldCharge_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:33:17.366  CMBT   | Rocket launch 857, owner 'CuteShips', def 'SpaceMissile_Barrage_T3_Mk3'
+16:33:17.367  CMBT   | Cancel aura 'GreenHeal' id 833 type AURA_HEAL_HULL_PERIODIC from 'CuteShips'
+16:33:17.369  CMBT   | Cancel aura 'Spell_ExtremeShieldCharge_T3_Epic' id 834 type AURA_HEAL_SHIELD_SCALED_PERIODIC from 'CuteShips'
+16:33:17.371  CMBT   | Set stage 2 for aura 'Spell_FocusShieldCharge_T3_Epic'[0] id 856
+16:33:17.371  CMBT   | Apply aura 'Spell_FocusShieldCharge_T3_Epic' id 856 type AURA_HEAL_SHIELD_SCALED_PERIODIC to 'CuteShips'
+16:33:17.424  CMBT   | Damage            NPC23|0000000346 ->        CuteShips|0000000442  30.23 (h:0.00 s:30.23) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:33:17.424  CMBT   | Damage            NPC25|0000000378 ->        CuteShips|0000000442  30.23 (h:0.00 s:30.23) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:33:17.424  CMBT   | Damage            NPC24|0000000362 ->        CuteShips|0000000442  18.50 (h:0.00 s:18.50) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:33:17.761  CMBT   | Rocket launch 870, owner 'CuteShips', def 'SpaceMissile_Barrage_T3_Mk3'
+16:33:17.816  CMBT   | Damage            NPC23|0000000346 ->        CuteShips|0000000442  30.18 (h:0.00 s:30.18) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:33:17.816  CMBT   | Damage            NPC25|0000000378 ->        CuteShips|0000000442  30.18 (h:0.00 s:30.18) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:33:17.816  CMBT   | Damage            NPC24|0000000362 ->        CuteShips|0000000442  15.09 (h:0.00 s:15.09) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:33:17.998  CMBT   | Spell 'SpaceMissile_Barrage_T3_Mk3_spl' by CuteShips(SpaceMissile_Barrage_T3_Mk3) targets(1): NPC24(C_Mercenary_M_T2_terf)
+16:33:17.998  CMBT   | Rocket detonation 857, owner 'CuteShips', def 'SpaceMissile_Barrage_T3_Mk3', reason 'hit', directHit 'NPC24'
+16:33:18.055  CMBT   | Damage        CuteShips|0000000442 ->            NPC25|0000000378 3455.00 (h:2166.67 s:1288.33) SpaceMissile_Barrage_T3_Mk3 THERMAL|SECONDARY_WEAPON|EXPLOSION  
+16:33:18.055  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:33:18.055  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +6 karma points    for kill 
+16:33:18.055  CMBT   | Killed C_Mercenary_M_T2_terf|0000000378;	 killer CuteShips|0000000442 
+16:33:18.055  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 3308.33; mostDamageWith 'SpaceMissile_Barrage_T3_Mk3';
+16:33:18.056  CMBT   | Damage        CuteShips|0000000442 ->            NPC24|0000000362 3455.00 (h:2166.67 s:1288.33) SpaceMissile_Barrage_T3_Mk3 THERMAL|SECONDARY_WEAPON|EXPLOSION  
+16:33:18.056  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:33:18.056  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +6 karma points    for kill 
+16:33:18.056  CMBT   | Killed C_Mercenary_M_T2_terf|0000000362;	 killer CuteShips|0000000442 
+16:33:18.056  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 3308.33; mostDamageWith 'SpaceMissile_Barrage_T3_Mk3';
+16:33:18.057  CMBT   | Damage        CuteShips|0000000442 ->            NPC23|0000000346 3455.00 (h:2166.67 s:1288.33) SpaceMissile_Barrage_T3_Mk3 THERMAL|SECONDARY_WEAPON|EXPLOSION  
+16:33:18.057  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:33:18.057  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +6 karma points    for kill 
+16:33:18.057  CMBT   | Killed C_Mercenary_M_T2_terf|0000000346;	 killer CuteShips|0000000442 
+16:33:18.057  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 3308.33; mostDamageWith 'SpaceMissile_Barrage_T3_Mk3';
+16:33:18.155  CMBT   | Rocket launch 885, owner 'CuteShips', def 'SpaceMissile_Barrage_T3_Mk3'
+16:33:18.155  CMBT   | Damage              n/a|-000000001 ->        CuteShips|0000000442  32.89 (h:0.00 s:32.89) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:33:18.155  CMBT   | Damage              n/a|-000000001 ->        CuteShips|0000000442  21.93 (h:0.00 s:21.93) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:33:18.155  CMBT   | Damage              n/a|-000000001 ->        CuteShips|0000000442  43.86 (h:0.00 s:43.86) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:33:18.322  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 204.69 Module_FocusShieldCharge_T3_Epic
+16:33:18.545  CMBT   | Rocket launch 886, owner 'CuteShips', def 'SpaceMissile_Barrage_T3_Mk3'
+16:33:18.938  CMBT   | Rocket launch 887, owner 'CuteShips', def 'SpaceMissile_Barrage_T3_Mk3'
+16:33:19.443  CMBT   | Spell 'SpaceMissile_Barrage_T3_Mk3_spl' by CuteShips(SpaceMissile_Barrage_T3_Mk3) targets(0):
+16:33:19.443  CMBT   | Rocket detonation 870, owner 'CuteShips', def 'SpaceMissile_Barrage_T3_Mk3', reason 'ttl'
+16:33:19.847  CMBT   | Spell 'SpaceMissile_Barrage_T3_Mk3_spl' by CuteShips(SpaceMissile_Barrage_T3_Mk3) targets(0):
+16:33:19.847  CMBT   | Rocket detonation 885, owner 'CuteShips', def 'SpaceMissile_Barrage_T3_Mk3', reason 'ttl'
+16:33:20.241  CMBT   | Spell 'SpaceMissile_Barrage_T3_Mk3_spl' by CuteShips(SpaceMissile_Barrage_T3_Mk3) targets(0):
+16:33:20.241  CMBT   | Rocket detonation 886, owner 'CuteShips', def 'SpaceMissile_Barrage_T3_Mk3', reason 'ttl'
+16:33:20.354  CMBT   | Cancel aura 'Spell_GreenComputerOverload_T3_Epic' id 837 type AURA_DAMAGE_MOD from 'CuteShips'
+16:33:20.636  CMBT   | Spell 'SpaceMissile_Barrage_T3_Mk3_spl' by CuteShips(SpaceMissile_Barrage_T3_Mk3) targets(0):
+16:33:20.636  CMBT   | Rocket detonation 887, owner 'CuteShips', def 'SpaceMissile_Barrage_T3_Mk3', reason 'ttl'
+16:33:22.417  CMBT   | Spell 'GreenHeal' by CuteShips(ModuleArmor_Green_Mk8) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:33:22.417  CMBT   | Spell 'Spell_ExtremeShieldCharge_T3_Epic' by CuteShips(Module_ExtremeShieldCharge_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:33:22.531  CMBT   | Apply aura 'GreenHeal' id 888 type AURA_HEAL_HULL_PERIODIC to 'CuteShips'
+16:33:22.533  CMBT   | Apply aura 'Spell_ExtremeShieldCharge_T3_Epic' id 889 type AURA_HEAL_SHIELD_SCALED_PERIODIC to 'CuteShips'
+16:33:23.652  CMBT   | Looted 'Module_GreenAcceleration_T2_Mk1' from 'LootCrate_Loot_52_ranks_5_5'
+16:33:28.095  CMBT   | Cancel aura 'Spell_FocusShieldCharge_T3_Epic' id 856 type AURA_HEAL_SHIELD_SCALED_PERIODIC from 'CuteShips'
+16:33:29.668  CMBT   | Spell 'Spell_GreenComputerOverload_T3_Epic' by CuteShips(Module_GreenComputerOverload_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:33:29.725  CMBT   | Apply aura 'Spell_GreenComputerOverload_T3_Epic' id 891 type AURA_DAMAGE_MOD to 'CuteShips'
+16:33:30.512  CMBT   | Spell 'FederationCritBuffOnMovement' by NPC32(ModuleArmor_Federation_Mk1) targets(1): NPC32(C_Pirates_M_T2_terf)
+16:33:30.625  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 892 type AURA_CRIT_CHANCE to 'NPC32'
+16:34:01.009  CMBT   | Spell 'Spell_GreenJump' by CuteShips(Module_GreenJumpOnStrafe_T4_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:34:02.031  CMBT   | Spell 'Spell_FocusShieldCharge_T3_Epic' by CuteShips(Module_FocusShieldCharge_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:34:02.090  CMBT   | Set stage 1 for aura 'Spell_FocusShieldCharge_T3_Epic'[0] id 896
+16:34:02.090  CMBT   | Apply aura 'Spell_FocusShieldCharge_T3_Epic' id 896 type AURA_HEAL_SHIELD_SCALED_PERIODIC to 'CuteShips'
+16:34:02.129  CMBT   | Damage            NPC26|0000000394 ->        CuteShips|0000000442  11.70 (h:0.00 s:11.70) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:02.129  CMBT   | Damage            NPC27|0000000410 ->        CuteShips|0000000442  11.70 (h:0.00 s:11.70) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:02.199  CMBT   | Set stage 2 for aura 'Spell_FocusShieldCharge_T3_Epic'[0] id 896
+16:34:02.200  CMBT   | Damage            NPC28|0000000426 ->        CuteShips|0000000442  10.06 (h:0.00 s:10.06) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:02.465  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442  45.57 Module_ExtremeShieldCharge_T3_Epic
+16:34:02.522  CMBT   | Damage            NPC26|0000000394 ->        CuteShips|0000000442  11.73 (h:0.00 s:11.73) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:02.522  CMBT   | Damage            NPC27|0000000410 ->        CuteShips|0000000442  11.73 (h:0.00 s:11.73) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:02.928  CMBT   | Damage            NPC26|0000000394 ->        CuteShips|0000000442  11.69 (h:0.00 s:11.69) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:02.928  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442   8.85 Module_ExtremeShieldCharge_T3_Epic
+16:34:03.264  CMBT   | Damage            NPC27|0000000410 ->        CuteShips|0000000442  11.78 (h:0.00 s:11.78) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:03.320  CMBT   | Damage            NPC26|0000000394 ->        CuteShips|0000000442  10.98 (h:0.00 s:10.98) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:03.433  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442  15.69 Module_ExtremeShieldCharge_T3_Epic
+16:34:03.656  CMBT   | Damage            NPC27|0000000410 ->        CuteShips|0000000442  22.02 (h:0.00 s:22.02) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:03.656  CMBT   | Damage            NPC26|0000000394 ->        CuteShips|0000000442  11.01 (h:0.00 s:11.01) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:03.936  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442  23.14 Module_ExtremeShieldCharge_T3_Epic
+16:34:04.048  CMBT   | Damage            NPC27|0000000410 ->        CuteShips|0000000442  11.01 (h:0.00 s:11.01) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:04.048  CMBT   | Damage            NPC26|0000000394 ->        CuteShips|0000000442  33.03 (h:0.00 s:33.03) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON|CRIT  
+16:34:04.048  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442  41.23 Module_FocusShieldCharge_T3_Epic
+16:34:04.383  CMBT   | Damage            NPC27|0000000410 ->        CuteShips|0000000442  22.02 (h:0.00 s:22.02) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:04.384  CMBT   | Damage            NPC26|0000000394 ->        CuteShips|0000000442  44.04 (h:0.00 s:44.04) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:04.441  CMBT   | Damage            NPC28|0000000426 ->        CuteShips|0000000442  11.01 (h:0.00 s:11.01) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:04.441  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442  72.84 Module_ExtremeShieldCharge_T3_Epic
+16:34:04.778  CMBT   | Damage            NPC27|0000000410 ->        CuteShips|0000000442  44.04 (h:0.00 s:44.04) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:04.778  CMBT   | Damage            NPC26|0000000394 ->        CuteShips|0000000442  44.04 (h:0.00 s:44.04) Weapon_Railgun_Basic_Ref_C_T1 KINETIC|PRIMARY_WEAPON  
+16:34:04.947  CMBT   | Cancel aura 'GreenHeal' id 888 type AURA_HEAL_HULL_PERIODIC from 'CuteShips'
+16:34:04.951  CMBT   | Cancel aura 'Spell_ExtremeShieldCharge_T3_Epic' id 889 type AURA_HEAL_SHIELD_SCALED_PERIODIC from 'CuteShips'
+16:34:04.955  CMBT   | Spell 'ShieldExplosion_T3_Epic' by CuteShips(Module_ShieldExplosion_T3_Epic) targets(3): NPC26(C_Mercenary_M_T2_terf) NPC27(C_Mercenary_M_T2_terf) NPC28(C_Mercenary_M_T2_terf)
+16:34:04.955  CMBT   | Spell 'AfterShock_T3_Epic' by CuteShips(Module_AfterShock_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:34:04.959  CMBT   | Damage        CuteShips|0000000442 ->            NPC26|0000000394 1086.29 (h:0.00 s:1086.29) Module_AfterShock_T3_Epic THERMAL  
+16:34:04.960  CMBT   | Damage        CuteShips|0000000442 ->            NPC26|0000000394 9457.70 (h:9255.66 s:202.05) Module_ShieldExplosion_T3_Epic EMP  
+16:34:04.960  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:34:04.961  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +6 karma points    for kill 
+16:34:04.961  CMBT   | Killed C_Mercenary_M_T2_terf|0000000394;	 killer CuteShips|0000000442 
+16:34:04.961  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 3308.33; mostDamageWith 'Module_ShieldExplosion_T3_Epic'; <debuff>
+16:34:04.962  CMBT   | Damage        CuteShips|0000000442 ->            NPC27|0000000410 1098.56 (h:0.00 s:1098.56) Module_AfterShock_T3_Epic THERMAL  
+16:34:04.962  CMBT   | Damage        CuteShips|0000000442 ->            NPC27|0000000410 9451.94 (h:9262.17 s:189.77) Module_ShieldExplosion_T3_Epic EMP  
+16:34:04.963  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:34:04.963  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +6 karma points    for kill 
+16:34:04.963  CMBT   | Killed C_Mercenary_M_T2_terf|0000000410;	 killer CuteShips|0000000442 
+16:34:04.963  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 3308.33; mostDamageWith 'Module_ShieldExplosion_T3_Epic'; <debuff>
+16:34:04.964  CMBT   | Damage        CuteShips|0000000442 ->            NPC28|0000000426 1003.08 (h:0.00 s:1003.08) Module_AfterShock_T3_Epic THERMAL  
+16:34:04.964  CMBT   | Damage        CuteShips|0000000442 ->            NPC28|0000000426 9496.77 (h:9211.51 s:285.26) Module_ShieldExplosion_T3_Epic EMP  
+16:34:04.964  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	 329 experience       for kill 
+16:34:04.964  CMBT   | Reward        CuteShips Ship_Race5_M_ATTACK_Rank9_7     	  +6 karma points    for kill 
+16:34:04.964  CMBT   | Killed C_Mercenary_M_T2_terf|0000000426;	 killer CuteShips|0000000442 
+16:34:04.964  CMBT   |    Participant        CuteShips	 Ship_Race5_M_ATTACK_Rank9_7     	 totalDamage 3308.33; mostDamageWith 'Module_ShieldExplosion_T3_Epic'; <debuff>
+16:34:04.965  CMBT   | Spell 'ShieldExplosion_T3_Epic_Renew' by CuteShips(Module_ShieldExplosion_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:34:04.965  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 102.50 Module_ShieldExplosion_T3_Epic
+16:34:05.012  CMBT   | Apply aura 'ShieldExplosion_T3_Epic_Renew' id 945 type AURA_HEAL_SHIELD_PERIODIC to 'CuteShips'
+16:34:05.047  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 213.28 Module_FocusShieldCharge_T3_Epic
+16:34:05.888  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 102.50 Module_ShieldExplosion_T3_Epic
+16:34:06.069  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 213.28 Module_FocusShieldCharge_T3_Epic
+16:34:06.909  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 102.50 Module_ShieldExplosion_T3_Epic
+16:34:07.080  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 213.28 Module_FocusShieldCharge_T3_Epic
+16:34:07.918  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 102.50 Module_ShieldExplosion_T3_Epic
+16:34:08.029  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 213.28 Module_FocusShieldCharge_T3_Epic
+16:34:08.926  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 102.50 Module_ShieldExplosion_T3_Epic
+16:34:09.038  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 213.28 Module_FocusShieldCharge_T3_Epic
+16:34:09.878  CMBT   | Cancel aura 'Spell_GreenComputerOverload_T3_Epic' id 891 type AURA_DAMAGE_MOD from 'CuteShips'
+16:34:09.934  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 102.50 Module_ShieldExplosion_T3_Epic
+16:34:09.990  CMBT   | Spell 'GreenHeal' by CuteShips(ModuleArmor_Green_Mk8) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:34:09.990  CMBT   | Spell 'Spell_ExtremeShieldCharge_T3_Epic' by CuteShips(Module_ExtremeShieldCharge_T3_Epic) targets(1): CuteShips(Ship_Race5_M_ATTACK_Rank9_7)
+16:34:09.990  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:34:10.048  CMBT   | Apply aura 'GreenHeal' id 946 type AURA_HEAL_HULL_PERIODIC to 'CuteShips'
+16:34:10.052  CMBT   | Apply aura 'Spell_ExtremeShieldCharge_T3_Epic' id 947 type AURA_HEAL_SHIELD_SCALED_PERIODIC to 'CuteShips'
+16:34:10.055  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 213.28 Module_FocusShieldCharge_T3_Epic
+16:34:10.496  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:34:10.945  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 102.50 Module_ShieldExplosion_T3_Epic
+16:34:11.001  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:34:11.154  CMBT   | Looted 'ow_Software_unit' from 'LootCrate_Loot_52_ranks_5_5'
+16:34:11.160  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 213.28 Module_FocusShieldCharge_T3_Epic
+16:34:11.545  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:34:11.994  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 102.50 Module_ShieldExplosion_T3_Epic
+16:34:12.049  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:34:12.106  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 213.28 Module_FocusShieldCharge_T3_Epic
+16:34:12.555  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:34:12.946  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 102.50 Module_ShieldExplosion_T3_Epic
+16:34:13.002  CMBT   | Cancel aura 'ShieldExplosion_T3_Epic_Renew' id 945 type AURA_HEAL_SHIELD_PERIODIC from 'CuteShips'
+16:34:13.058  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:34:13.113  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 213.28 Module_FocusShieldCharge_T3_Epic
+16:34:13.562  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:34:14.066  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:34:14.123  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 213.28 Module_FocusShieldCharge_T3_Epic
+16:34:14.517  CMBT   | Set stage 1 for aura 'Spell_FocusShieldCharge_T3_Epic'[0] id 896
+16:34:14.572  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:34:14.740  CMBT   | Cancel aura 'Spell_FocusShieldCharge_T3_Epic' id 896 type AURA_HEAL_SHIELD_SCALED_PERIODIC from 'CuteShips'
+16:34:15.077  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:34:15.580  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:34:16.100  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:34:16.605  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 185.63 Module_ExtremeShieldCharge_T3_Epic
+16:34:16.952  CMBT   | Spell 'FederationCritBuffOnMovement' by NPC33(ModuleArmor_Federation_Mk1) targets(1): NPC33(C_Pirates_M_T2_terf)
+16:34:16.952  CMBT   | Spell 'FederationCritBuffOnMovement' by NPC34(ModuleArmor_Federation_Mk1) targets(1): NPC34(C_Pirates_M_T2_terf)
+16:34:16.952  CMBT   | Spell 'FederationCritBuffOnMovement' by NPC35(ModuleArmor_Federation_Mk1) targets(1): NPC35(C_Pirates_M_T2_terf)
+16:34:17.020  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 951 type AURA_CRIT_CHANCE to 'NPC33'
+16:34:17.020  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 952 type AURA_CRIT_CHANCE to 'NPC34'
+16:34:17.020  CMBT   | Apply aura 'FederationCritBuffOnMovement' id 953 type AURA_CRIT_CHANCE to 'NPC35'
+16:34:17.054  CMBT   | Heal          CuteShips|0000000442 ->        CuteShips|0000000442 112.78 Module_ExtremeShieldCharge_T3_Epic
