@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnemShot
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EnemShot\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=r
+comment1.target=EnemShot(int)
+comment2.params=r\ s
+comment2.target=EnemShot(int,\ int)
+comment3.params=r\ s\ x\ y
+comment3.target=EnemShot(int,\ int,\ int,\ int)
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ EnemShot\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=5
