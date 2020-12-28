@@ -1,2 +1,2 @@
-# Java-Projects
-A combination of java programs I have written. Most of them will be video games.. :)
+# Personal Projects
+These are some of the cooler personal projects that I've been either commissioned to do or saw need for myself.
